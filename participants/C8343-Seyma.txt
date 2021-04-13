@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 main branch
+=======
+ilk satır develepor
+>>>>>>> developer-c8343-seyma
